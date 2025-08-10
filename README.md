@@ -4,3 +4,4 @@ the dataset contains 1 year stock prices of HDFBANK.
 i have added an old dataset as i ran this program a while back. 
 You'll have to manually add the latest dataset from NSE's website: 
 https://www.nseindia.com/get-quotes/equity?symbol=HDFCBANK
+incase you wish to use the same dataset i've already uploaded it. Just change the csv file path to your own. 
